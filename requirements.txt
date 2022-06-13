@@ -1,0 +1,17 @@
+#for databased on internet
+google-cloud-storage
+google-cloud-firestore
+google-cloud-logging
+
+#for tempoary test our app
+flask
+gunicorn
+
+#line bot
+line-bot-sdk
+#for google sheet
+# google-api-python-client 
+# google-auth-httplib2 
+# google-auth-oauthlibpip 
+gspread
+oauth2client
