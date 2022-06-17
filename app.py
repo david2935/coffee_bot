@@ -66,9 +66,9 @@ app = Flask(__name__)
 
 # 註冊機器人
 # 專門跟line溝通的
-line_bot_api = LineBotApi('HK4Fd7j61yuzCKRkeK4IpimK4INl6iHAKSdJgOiByOvODUHqCAUfLH4tE7/fxa+BnOvHjXGFbGT22lb8Fpa0EetZRWvh4+bZ7nS3TRscsj1RIsrwQbX11nelC+nDLGpDGSd0ZRKiPtV8/qNmDqt2/QdB04t89/1O/w1cDnyilFU=')
+line_bot_api = LineBotApi('')
 # 收消息用的
-handler = WebhookHandler('bd37e59984fc46353c1e28c7b4145ab5')
+handler = WebhookHandler('')
 
 
 
